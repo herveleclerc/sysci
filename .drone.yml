@@ -1,4 +1,4 @@
-image: ansible/ubuntu14.04-ansible
+image: williamyeh/ansible
 notify:
   email:
     recipients:
