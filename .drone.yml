@@ -1,1 +1,5 @@
 image: ansible/ubuntu14.04-ansible
+notify:
+  email:
+    recipients:
+      - herve.leclerc@alterway.fr
